@@ -18,7 +18,7 @@
 	url = https://github.com/riscv/riscv-llvm.git
 [submodule "riscv-gnu-toolchain"]
 	path = riscv-gnu-toolchain
-	url = https://github.com/riscv/riscv-gnu-toolchain.git
+	url = https://github.com/lucashmorais/riscv-gnu-toolchain.git
 [submodule "riscv-openocd"]
 	path = riscv-openocd
 	url = https://github.com/riscv/riscv-openocd.git
